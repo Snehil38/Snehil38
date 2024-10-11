@@ -12,12 +12,11 @@ I'm a passionate developer who loves exploring new technologies and turning idea
 
 ### 🎨 My Interests:
 - Writing **poetry** to explore deep emotions and introspective themes ✍️.
+- 🎧 **Music**: Whether it's creating playlists or discovering new genres, music is my constant companion in both work and play.
+- 🧠 **Problem-Solving**: Tackling puzzles, coding challenges, and brain-teasers—anything that pushes my logical thinking to the limit.
+- 🌱 **Self-Improvement**: Constantly working on becoming the best version of myself by learning new skills and adopting better habits.
+- 🎮 **Gaming**: Whether it’s strategy games or open-world adventures, I enjoy diving into games that offer a blend of creativity and challenge.
 - Constantly learning and exploring new fields in tech and beyond 📚.
-
-### 🎉 Fun Facts About Me:
-- 🎧 **Music Addict**: I always have my earphones or headphones nearby. Music is my go-to fuel for creativity!
-- 🐱 **Cat Lover**: If there’s a cat nearby, chances are I’m already trying to be its friend 🐾.
-- 🌱 **Growth Mindset**: I believe in lifelong learning and constantly pushing myself to grow, both personally and professionally.
 
 
 ## 🌐 Socials:
