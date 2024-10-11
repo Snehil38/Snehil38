@@ -16,7 +16,7 @@ I'm a third year in Bachelor of Technology in Computer Science Engineering.<br>I
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Snehil38&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia)
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- ### 🔝 Top Contributed Repo -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=Snehil38&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
