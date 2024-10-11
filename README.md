@@ -18,6 +18,7 @@ I'm a passionate developer who loves exploring new technologies and turning idea
 - 🎮 **Gaming**: Whether it’s strategy games or open-world adventures, I enjoy diving into games that offer a blend of creativity and challenge.
 - Constantly learning and exploring new fields in tech and beyond 📚.
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/snehil-rai-477968245) 
 
