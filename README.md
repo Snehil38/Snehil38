@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm a third year in Bachelor of Technology in Computer Science Engineering.<br>I'm currently learning iOS development.<br>I'm pro efficient in python, c++<br>I'm interested in Machine Learning and Data Science
+I'm a third year who is currently pursuing Bachelor of Technology in Computer Science Engineering.<br>I'm currently learning iOS development.<br>I'm pro efficient in python, c++<br>I'm interested in Machine Learning and Data Science
 
 
 ## 🌐 Socials:
