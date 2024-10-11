@@ -3,6 +3,13 @@
 # 💫 About Me:
 I'm a passionate developer who loves exploring new technologies and turning ideas into reality. Whether it's crafting interactive web experiences 🌐, diving into game development 🎮, or experimenting with AI 🤖, I'm always up for a challenge. Here, you'll find some of my projects that span across different domains, reflecting my curiosity and eagerness to learn.
 
+### 🚀 What I do:
+- **Web Development**: Creating clean, responsive websites with a focus on user experience 💻.
+- **iOS Development**: Developing intuitive and user-friendly apps for Apple devices 🍏.
+- **Game Development**: Building interactive and fun games using Python and Pygame 🎯.
+- **Machine Learning**: Experimenting with AI models and data-driven solutions 📊.
+- **Hackathons**: Participating in hackathons to create innovative solutions to real-world problems 💡.
+
 ### 🎨 My Interests:
 - Writing **poetry** to explore deep emotions and introspective themes ✍️.
 - Constantly learning and exploring new fields in tech and beyond 📚.
