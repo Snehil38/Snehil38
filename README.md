@@ -14,6 +14,11 @@ I'm a passionate developer who loves exploring new technologies and turning idea
 - Writing **poetry** to explore deep emotions and introspective themes ✍️.
 - Constantly learning and exploring new fields in tech and beyond 📚.
 
+### 🎉 Fun Facts About Me:
+- 🎧 **Music Addict**: I always have my earphones or headphones nearby. Music is my go-to fuel for creativity!
+- 🐱 **Cat Lover**: If there’s a cat nearby, chances are I’m already trying to be its friend 🐾.
+- 🌱 **Growth Mindset**: I believe in lifelong learning and constantly pushing myself to grow, both personally and professionally.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/snehil-rai-477968245) 
