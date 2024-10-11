@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 I'm a passionate developer who loves exploring new technologies and turning ideas into reality. Whether it's crafting interactive web experiences 🌐, diving into game development 🎮, or experimenting with AI 🤖, I'm always up for a challenge. Here, you'll find some of my projects that span across different domains, reflecting my curiosity and eagerness to learn.
 
